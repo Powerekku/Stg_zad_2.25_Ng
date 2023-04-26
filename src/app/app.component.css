@@ -1,0 +1,41 @@
+img {
+  border-radius: 15px;
+  margin: 1em;
+}
+a:hover {
+  border-radius: 15px;
+  border: 2px solid rgb(247, 0, 0);
+  background-color: antiquewhite;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  padding: 1em;
+}
+
+p {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  padding-left: 8em;
+}
+
+.container {
+  display: flex;
+}
+
+footer {
+  text-align: center;
+}
+
+.foot {
+  background-color: white;
+  color: gray;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.foot:hover {
+  background-color: gray;
+  color:white;
+}
